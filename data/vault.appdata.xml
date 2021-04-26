@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Your Name <you@email.com> -->
+<component type="desktop">
+  <id>com.github.dkov01.vault</id>
+  <metadata_license>BSD-2</metadata_license>
+  <name>Vault</name>
+  <summary>Create encrypted vaults.</summary>
+  <description>
+  <p>Store your files securely encryped. Easy to use and secure.</p>
+  </description>
+  <custom>
+    <value key="x-appcenter-color-primary">#603461</value>
+    <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+    <value key="x-appcenter-suggested-price">3</value>
+  </custom>
+</component>
