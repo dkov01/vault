@@ -1,0 +1,3 @@
+src/Application.vala
+data/vault.desktop.in
+data/vault.appdata.xml.in
