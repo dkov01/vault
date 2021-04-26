@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Vault
+GenericName=Vault App
+Comment=Create encrypted vaults.
+Categories=Utility;System;
+Exec=com.github.dkov01.vault
+Icon=com.github.dkov01.vault
+Terminal=false
+Type=Application
+Keywords=Vault;Encryption;
